@@ -32,7 +32,7 @@ window.WEDDING_CONFIG = {
     address: "Di Rumah Mempelai Wanita — Jl. H. Ismail Desa Sungai Baru Dusun Rasau RT 008/RW 004, Kec. Teluk Keramat, Kab. Sambas",
     mapsUrl: "https://goo.gl/maps/EKjbTX8ebZFvXDkAA"
   },
-  rsvpEndpoint: "", // Isi dengan URL Web App Google Apps Script yang berakhiran /exec.
+  rsvpEndpoint: "https://script.google.com/macros/s/AKfycbzXthYD0VOZPcYfDlAFo-Vq48HCmxnnpl3UTccLm4l8wuToIxf4iM33Pd_RNFP5RJmC/exec", // Isi dengan URL Web App Google Apps Script yang berakhiran /exec.
   refreshWishesMs: 20000,
   musicFile: "" // Opsional: contoh "assets/wedding-music.mp3" (gunakan musik yang Anda miliki izinnya).
 };
